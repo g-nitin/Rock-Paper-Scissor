@@ -1,13 +1,12 @@
 /*
 Nitin Gupta
-HW02
-Rock Paper Scissors!
+Rock Paper Scissors using the terminal!
  */
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class RockPaperScissors {
+public class RPS_Terminal {
 
     public static final int ROUNDS = 3; // number of rounds
     public static void main(String[] args) {

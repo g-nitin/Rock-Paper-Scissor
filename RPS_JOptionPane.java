@@ -1,7 +1,6 @@
 /*
 Nitin Gupta
-HW02
-Rock Paper Scissors!
+Rock Paper Scissors using GUI!
  */
 
 import javax.swing.*;
